@@ -1,6 +1,7 @@
 # How AI Assists a Devops Engineer
 
-This repository contains tools and scripts that leverage generative AI (GenAI) to assist DevOps engineers in automating and optimizing various tasks, including system health monitoring and Dockerfile generation. These tools simplify complex tasks, improve productivity, and implement best practices using AI models like ChatGPT, Ollama, and Gemini.
+Generative AI refers to a class of artificial intelligence models designed to create new content, such as text, images, code, or even music, based on patterns and data they have been trained on. 
+Unlike traditional AI, which often performs specific tasks like classification or regression, generative AI creates novel outputs that resemble the data it was trained on.
 
 In the context of DevOps engineering, generative AI can significantly enhance automation, productivity, and decision-making. Here's how it helps DevOps engineers:
 Generative AI helps DevOps engineers by automating repetitive tasks, optimizing workflows, enhancing system reliability, and boosting productivity. By reducing manual efforts in coding, testing, monitoring, and infrastructure management, generative AI allows DevOps teams to focus more on strategy and problem-solving while maintaining high levels of efficiency and system performance.
