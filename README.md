@@ -48,6 +48,9 @@ A GenAI powered tool that generates optimized Dockerfiles based on programming l
    ```bash
    ollama pull llama3.2:1b
    ```
+   
+#### Purpose
+This Python tool uses GenAI models to generate optimized Dockerfiles based on the programming language specified by the user. It incorporates best practices such as multi-stage builds, using the right base images, and installing dependencies effectively.
 
 ## 🚀 Project Setup
 
@@ -61,18 +64,15 @@ A GenAI powered tool that generates optimized Dockerfiles based on programming l
 
 2. **Install Dependencies**
    ```bash
-   pip3 install -r requirements.txt (or) pip3 install ollama
+   pip3 install ollama
    ```
-
-3. **Run the Application**
+3. **create the Application**
+   vi generate_dockerfile.py
+   
+5. **Run the Application**
    ```bash
    python3 generate_dockerfile.py
    ```
-
-#### Purpose
-This Python tool uses GenAI models to generate optimized Dockerfiles based on the programming language specified by the user. It incorporates best practices such as multi-stage builds, using the right base images, and installing dependencies effectively.
-
-
 #### Code for Dockerfile Generation: `generate_dockerfile.py`
 ```
 import ollama
